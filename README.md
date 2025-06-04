@@ -1,4 +1,4 @@
-# pjsip-registered-endpoints
+# pjsip-registered-endpoints-show-all
 These quick and dirty PHP files will display some basic information 
 in a browser tab related to any PJSIP registered endpoints.  In its 
 default config, the extension, private IP address, user agent and 
